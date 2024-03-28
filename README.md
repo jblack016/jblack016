@@ -1,6 +1,3 @@
-<p align="center">
-<img src ="https://capsule-render.vercel.app/api?type=rounded&color=auto&text=Welcome" />
-</p>
 
 ```yaml
 name: Jared Black
